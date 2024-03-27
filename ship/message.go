@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/LMF-DHBW/go_eebus/resources"
+	"github.com/joaocoelh0/go_eebus/resources"
 
 	"golang.org/x/net/websocket"
 )
@@ -97,7 +97,9 @@ func (SME *SMEInstance) StartCMI() {
 	}
 }
 
-/* Use XML format
+/*
+	Use XML format
+
 - Notify SPINE node that connection is active
 - Recieve and send methods should be available
 */

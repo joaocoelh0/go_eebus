@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/LMF-DHBW/go_eebus/resources"
-	"github.com/LMF-DHBW/go_eebus/ship"
+	"github.com/joaocoelh0/go_eebus/resources"
+	"github.com/joaocoelh0/go_eebus/ship"
 )
 
 type SpineNode struct {

@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/LMF-DHBW/go_eebus/resources"
+	"github.com/joaocoelh0/go_eebus/resources"
 
 	"github.com/grandcat/zeroconf"
 	"github.com/phayes/freeport"
@@ -108,7 +108,9 @@ func (shipNode *ShipNode) handleFoundService(entry *zeroconf.ServiceEntry) {
 	}
 }
 
-/* Procedure for new conncetions
+/*
+	Procedure for new conncetions
+
 1. Create SME instance and append to list from SHIP node
 2. Start CME handshake
 3. Start data exchange -> notify spine

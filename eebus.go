@@ -1,8 +1,8 @@
 package go_eebus
 
 import (
-	"github.com/LMF-DHBW/go_eebus/resources"
-	"github.com/LMF-DHBW/go_eebus/spine"
+	"github.com/joaocoelh0/go_eebus/resources"
+	"github.com/joaocoelh0/go_eebus/spine"
 )
 
 type EebusNode struct {

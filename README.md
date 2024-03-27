@@ -1,5 +1,5 @@
 # go_eebus
-<img src="https://github.com/LMF-DHBW/go_eebus/blob/master/assets/eebus_logo.png" width="150"> 
+<img src="https://github.com/joaocoelh0/go_eebus/blob/master/assets/eebus_logo.png" width="150"> 
 This repository includes a framework of the EEBUS protocol in the Go programming language.
 The EEBUS protocol suite provides high-quality protocols, which allow efficient communication of smart home IoT devices, independent of device brand, type and other factors.
 It provides an open-source, future-proof solution that can be applied in many environments and for numerous applications.
@@ -9,12 +9,12 @@ This framework is part of a student research project at DHBW Stuttgart and provi
 
 The documentation of the student research project can be found here: 
 
-[GoEEBUS.pdf](https://github.com/LMF-DHBW/go_eebus/blob/main/assets/GoEEBUS.pdf)
+[GoEEBUS.pdf](https://github.com/joaocoelh0/go_eebus/blob/main/assets/GoEEBUS.pdf)
 
 The other part of the research project was the implementation of device specific code.
 The GitHub repository can be found here: 
 
-[https://github.com/LMF-DHBW/go_eebus_devices](https://github.com/LMF-DHBW/go_eebus_devices)
+[https://github.com/joaocoelh0/go_eebus_devices](https://github.com/joaocoelh0/go_eebus_devices)
 
 ## Explanation and examples
 

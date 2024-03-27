@@ -2,7 +2,7 @@ package spine
 
 import (
 	"encoding/xml"
-	"github.com/LMF-DHBW/go_eebus/resources"
+	"github.com/joaocoelh0/go_eebus/resources"
 	"log"
 )
 
